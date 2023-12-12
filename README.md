@@ -135,9 +135,10 @@ else:
 
 ```
 ## Output
-  ![Alt text](3b1.png)
-![Alt text](3b2.png)
-![Alt text](3b3.png)
+   ![3b1](https://github.com/K-PRAVEEN-2005/Search-Algorithm/assets/145742724/516f23d4-66bc-41cf-a396-54f4c115dfc2)
+   ![3b2](https://github.com/K-PRAVEEN-2005/Search-Algorithm/assets/145742724/9b36d73a-a9e1-4a2d-afdf-1ce6f1ec8909)
+   ![3b3](https://github.com/K-PRAVEEN-2005/Search-Algorithm/assets/145742724/1dad6921-3e82-4515-b9f5-7835a95a044c)
+
 
 
 ## Result
